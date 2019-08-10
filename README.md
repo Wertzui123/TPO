@@ -10,3 +10,4 @@ Can be found in the plugin.yml
 
 # Credits
 Written by Wertzui123.
+Icon by: Icon is comming soon.
