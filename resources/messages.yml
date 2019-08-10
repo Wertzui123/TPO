@@ -1,0 +1,5 @@
+no_permission: "§cYou're not allowed to use this command"
+teleport_succes: "§aYou teleported to {x}, {y}, {z}."
+teleport_succes_player: "§aYou teleporte to {player}."
+no_player_found: "§cThere's no player called {name}!"
+run_ingame: "§cRun this command ingame!"

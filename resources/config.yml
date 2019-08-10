@@ -1,0 +1,7 @@
+---
+version: 1.0
+command: "tpo"
+description: "Teleport without a message for ops"
+usage: "§cUsage: /tpo <player|position>"
+aliases: []
+...
